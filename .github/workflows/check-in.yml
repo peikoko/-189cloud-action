@@ -1,4 +1,4 @@
-name: 签到
+name: Cloud189Checkin
 
 on:
   push:
